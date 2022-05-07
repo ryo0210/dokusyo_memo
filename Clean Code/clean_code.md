@@ -1,3 +1,8 @@
+# Clean Code
+
+![Book Cover](https://github.com/ryo0210/dokusyo_memo/blob/main/Clean%20Code/book_cover.jpg)
+
+
 ### 第3章 関数
 
 - 小さいこと！
