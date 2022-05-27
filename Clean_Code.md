@@ -1,6 +1,6 @@
 # Clean Code
 
-![Book Cover](https://github.com/ryo0210/dokusyo_memo/blob/main/BookCover/ClenCode.jpg)
+![Book Cover](https://github.com/ryo0210/dokusyo_memo/blob/main/BookCover/CleanCode.jpg)
 
 ### 第2章 意味のある名前
 
